@@ -17,8 +17,8 @@ class ArraySort
 
   void insertionSort();
   void selectionSort();
-  void mergeSort();
   void quickSort();
+  void bubbleSort();
 	
  private:
 	std::vector<int> _vect;
