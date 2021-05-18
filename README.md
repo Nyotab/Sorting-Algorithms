@@ -1,2 +1,2 @@
 # Sorting-Algorithms-in-C++
-Implementations of sorting algorithms in C++ and use of SFML
+Implementations of sorting algorithms in C++ and use of SFML (WIP)
